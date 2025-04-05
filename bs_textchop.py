@@ -4,7 +4,7 @@ import re
 
 class TextExtractBetween:
     # Define a maximum number of pairs the node can handle
-    MAX_PAIRS = 10
+    MAX_PAIRS = 15
 
     @classmethod
     def INPUT_TYPES(s):
